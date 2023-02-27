@@ -1,0 +1,11 @@
+C:\Users\MONSTERMC\Desktop\New folder\CustomAlertBoxDemo\bin\Debug\CustomAlertBoxDemo.exe.config
+C:\Users\MONSTERMC\Desktop\New folder\CustomAlertBoxDemo\bin\Debug\CustomAlertBoxDemo.exe
+C:\Users\MONSTERMC\Desktop\New folder\CustomAlertBoxDemo\bin\Debug\CustomAlertBoxDemo.pdb
+C:\Users\MONSTERMC\Desktop\New folder\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\New folder\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.Form1.resources
+C:\Users\MONSTERMC\Desktop\New folder\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.Form_Alert.resources
+C:\Users\MONSTERMC\Desktop\New folder\CustomAlertBoxDemo\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Desktop\New folder\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\New folder\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\New folder\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.exe
+C:\Users\MONSTERMC\Desktop\New folder\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.pdb
